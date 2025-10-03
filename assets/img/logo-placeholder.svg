@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="80" viewBox="0 0 320 80" fill="none">
+  <rect width="320" height="80" rx="12" fill="#0b0d12"/>
+  <text x="24" y="50" font-family="Inter, Arial" font-size="28" font-weight="700" fill="#ffffff">MOLINA</text>
+  <circle cx="280" cy="40" r="18" fill="#0d47a1"/>
+  <circle cx="280" cy="40" r="10" fill="#ff2e88"/>
+</svg>
